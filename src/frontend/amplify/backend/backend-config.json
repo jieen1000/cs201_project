@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "damn063948c1": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

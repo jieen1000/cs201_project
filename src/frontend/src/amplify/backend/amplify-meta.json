@@ -1,0 +1,10 @@
+{
+  "providers": {
+    "awscloudformation": {
+    }
+  },
+  "auth": {
+    "kaizenfrontend4e65ee14": {
+    }
+  }
+}

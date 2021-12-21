@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kaizenfrontend-dev-110532-authRole",
+      "UnauthRoleArn": "arn:aws:iam::876658266128:role/amplify-kaizenfrontend-dev-110532-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::876658266128:role/amplify-kaizenfrontend-dev-110532-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-kaizenfrontend-dev-110532-deployment",
+      "UnauthRoleName": "amplify-kaizenfrontend-dev-110532-unauthRole",
+      "StackName": "amplify-kaizenfrontend-dev-110532",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:876658266128:stack/amplify-kaizenfrontend-dev-110532/a49a3e10-1051-11ec-a61f-0a6851bed576",
+      "AmplifyAppId": "ddauwaij392n3"
+    },
+    "categories": {
+      "auth": {
+        "kaizenfrontend4e65ee14": {
+          "userPoolId": "ap-southeast-1_VvJ0CQ90D",
+          "userPoolName": "amplifyadmins",
+          "webClientId": "4s3tfmg2s5mjg6iiqnr3mh7e36",
+          "nativeClientId": "4s3tfmg2s5mjg6iiqnr3mh7e36"
+        }
+      }
+    }
+  }
+}

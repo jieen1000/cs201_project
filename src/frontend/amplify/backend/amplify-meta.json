@@ -1,0 +1,11 @@
+{
+  "providers": {
+    "awscloudformation": {
+    }
+  },
+  "auth": {
+    "damn063948c1": {
+      }
+    }
+  }
+}
